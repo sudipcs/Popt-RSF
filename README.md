@@ -1,5 +1,8 @@
 # Popt-RSF
 
+**cite:** Mondal, S., Ghosh, A., Ghosh, Z., & Khatua, S.(2022). Parameter Optimization on Random Survival Forest
+Increases the Efficiency of Survival Prediction Models. Available at SSRN 3994212. https://dx.doi.org/10.2139/ssrn.3994212
+
 ***Prerequisites :*** <br/>
 The required dependencies for the analysis is Python programming ***version 3***
 and is tested to work under windows as well as Ubuntu.<br/>
